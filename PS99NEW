@@ -4,7 +4,7 @@ end)
 
 if not success then
     success, result = pcall(function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/Sensui0011/Sensui0011/main/PS99NEW", true))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Sensui0011/PS99DUPE/main/PS99", true))()
     end)
 end
 
