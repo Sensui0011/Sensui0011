@@ -1,3 +1,4 @@
 --Execute this
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Sensui0011/PS99DUPE/main/PS99", true))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sensui0011/PS99DUPE/main/PS99"))()
 
